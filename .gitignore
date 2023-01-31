@@ -1,0 +1,5 @@
+#ignore file/directory
+
+/out
+/.idea
+People_1.iml
